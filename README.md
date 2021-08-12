@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](![walkthrough](https://user-images.githubusercontent.com/82300831/129127136-b88c7bb7-f95f-4aee-a5a9-1ef892ee267e.gif)).
+GIF created with [LiceCap](https://user-images.githubusercontent.com/82300831/129127136-b88c7bb7-f95f-4aee-a5a9-1ef892ee267e.gif).
 
 ## Notes
 
